@@ -1,0 +1,36 @@
+.type-020 .twitter-timeline {
+  position: relative;
+  height: 20px;
+  box-sizing: border-box;
+  padding: 1px 8px 1px 6px;
+  background-color: #1b95e0;
+  color: #fff;
+  border-radius: 3px;
+  font-weight: 500;
+  cursor: pointer;
+  display: inline-block;
+  vertical-align: top;
+  zoom: 1;
+}
+.type-020 .fa-star-o {
+  color: #f6ad26;
+  font-size: 6px;
+}
+.type-020 .fa-stack {
+  position: relative;
+  display: inline-block;
+  width: 2em;
+  height: 2em;
+  line-height: 2em;
+  vertical-align: middle;
+  color: #f6ad26;
+  font-size: 6px;
+}
+.type-020 a,
+.type-020 a b {
+  color: #f15a23;
+  text-decoration: none;
+}
+.type-020 .hien {
+  font-size: 50px;
+}

@@ -1,0 +1,22 @@
+.type-028-Categories-Bestsellers .list-group {
+  margin-bottom: 20px;
+  padding-left: 0;
+}
+.type-028-Categories-Bestsellers h2 {
+  padding: 0 0 5px;
+  font-size: 18px;
+}
+.type-028-Categories-Bestsellers h2,
+.type-028-Categories-Bestsellers #header,
+.type-028-Categories-Bestsellers #header .header-row,
+.type-028-Categories-Bestsellers #header .links,
+.type-028-Categories-Bestsellers #header .links>ul>li.wrap_custom_block {
+  position: relative;
+}
+.type-028-Categories-Bestsellers h2,
+.type-028-Categories-Bestsellers #container h3 {
+  margin: 0 0 20px;
+  line-height: normal;
+  border-bottom: 1px solid #e5e5e5;
+  color: #000;
+}

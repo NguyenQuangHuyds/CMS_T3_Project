@@ -1,0 +1,68 @@
+.type-024-Categories-Bestsellers h3 span {
+  border-bottom: 2px solid #f15a23;
+  display: inline-block;
+  padding-right: 5px;
+  padding-bottom: 3px;
+  margin-bottom: -1px;
+}
+.type-024-Categories-Bestsellers h3 {
+  font-size: 20px;
+  margin: 0 0 20px;
+  line-height: normal;
+  border-bottom: 1px solid #e5e5e5;
+  color: #000;
+}
+.type-024-Categories-Bestsellers .box-category ul,
+.type-024-Categories-Bestsellers .list-item {
+  list-style: none;
+  margin-top: -5px;
+}
+.type-024-Categories-Bestsellers .box-category ul li {
+  position: relative;
+}
+.type-024-Categories-Bestsellers .box-category>ul>li,
+.type-024-Categories-Bestsellers .list-item>li {
+  display: block;
+  position: relative;
+}
+.type-024-Categories-Bestsellers .box-category>ul>li>a {
+  color: #333;
+  text-transform: uppercase;
+}
+.type-024-Categories-Bestsellers .box-category ul li a,
+.type-024-Categories-Bestsellers .list-item li a {
+  padding: 7px 0 7px 5px;
+  color: #222;
+  display: block;
+}
+.type-024-Categories-Bestsellers a {
+  text-decoration: none;
+}
+.type-024-Categories-Bestsellers .box-category .down {
+  top: 0;
+  right: 0;
+  position: absolute;
+  cursor: pointer;
+  width: 16px;
+  opacity: .6;
+  -moz-opacity: .6;
+}
+.type-024-Categories-Bestsellers .box-category .down:hover {
+  opacity: 1;
+  -moz-opacity: 1;
+}
+.type-024-Categories-Bestsellers .box-category ul li a:hover,
+.type-024-Categories-Bestsellers .list-item li a:hover {
+  background: #f9f9f9;
+}
+.type-024-Categories-Bestsellers .box-category a:hover,
+.type-024-Categories-Bestsellers .list-item a:hover {
+  color: #f15a23;
+}
+.type-024-Categories-Bestsellers .box-category .cutom-parent-li {
+  border-bottom: 1px dashed #e5e5e5;
+  color: #222;
+  font-family: Tahoma, Geneva, sans-serif;
+  line-height: 18px;
+  font-size: 12px;
+}

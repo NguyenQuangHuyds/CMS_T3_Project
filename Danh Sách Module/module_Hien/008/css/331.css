@@ -1,0 +1,28 @@
+.type-008 #header .links_contact>ul>li .fa-envelope,
+.type-008 #header .links_contact>ul>li .fa-phone {
+  font-size: 120%;
+  margin-right: 3px;
+}
+.type-008 .ull {
+  display: flex;
+  float: right;
+}
+.type-008 .btnfocus {
+  background: none;
+  border: none;
+  outline: none;
+  float: right;
+}
+.type-008 ul {
+  list-style: none;
+}
+.type-008 .dropdown-focus {
+  display: none;
+  position: absolute;
+  padding: 0;
+  right: 0px;
+}
+.btnfocus:focus .dropdown-focus {
+  display: block;
+  float: right;
+}

@@ -1,0 +1,47 @@
+
+.type-018{  
+    .price-div{
+        position: relative;
+     }
+     .before-price::before{
+         content: '';
+         position: absolute;
+         border-top: 20px solid transparent;
+         border-bottom: 20px solid transparent;
+         border-right: 19px solid black;
+         z-index: 999;
+         left: -19px;
+     }
+     .before-price::after{
+         content: '';
+         position: absolute;
+         background-color: #fff;
+         z-index: 999;
+         border-radius: 50%;
+         padding: 5px;
+         left: -11px;
+         top: 42%;
+     }
+     .price{
+         color: #fff;
+         font-size: 24px;
+         font-weight: bold;
+         background: #555;
+         padding: 10px;
+     
+     }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

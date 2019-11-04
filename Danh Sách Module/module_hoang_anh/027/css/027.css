@@ -1,0 +1,166 @@
+.type-027-Categories-Bestsellers h3 span {
+  border-bottom: 2px solid #f15a23;
+  display: inline-block;
+  padding-right: 5px;
+  padding-bottom: 3px;
+  margin-bottom: -1px;
+}
+.type-027-Categories-Bestsellers h3 {
+  font-size: 20px;
+  margin: 0 0 20px;
+  line-height: normal;
+  border-bottom: 1px solid #e5e5e5;
+  color: #000;
+}
+.type-027-Categories-Bestsellers .product-layout .product-thumb h4 a,
+.type-027-Categories-Bestsellers #column-right .product-layout .product-thumb h4 a {
+  font-size: 12px;
+  display: block;
+}
+.type-027-Categories-Bestsellers .product-thumb h4 a {
+  font-size: 13px;
+  line-height: 18px;
+  text-decoration: none;
+  margin: 0 auto;
+  padding: 0;
+  color: #333;
+}
+.type-027-Categories-Bestsellers .product-thumb .image a img,
+.type-027-Categories-Bestsellers .product-thumb h4 a {
+  display: inline-block;
+}
+.type-027-Categories-Bestsellers .product-layout .product-thumb .image,
+.type-027-Categories-Bestsellers #column-right .product-layout .product-thumb .image {
+  float: left;
+  margin-right: 8px;
+  margin-bottom: 0;
+  width: 60px;
+}
+.type-027-Categories-Bestsellers .product-thumb .image {
+  text-align: center;
+  margin-bottom: 5px;
+  float: none;
+}
+.type-027-Categories-Bestsellers .product-layout .product-thumb .caption,
+.type-027-Categories-Bestsellers #column-right .product-layout .product-thumb .caption {
+  float: left;
+  max-width: 202px;
+}
+.type-027-Categories-Bestsellers .product-layout .product-thumb,
+.type-027-Categories-Bestsellers #column-right .product-layout .product-thumb {
+  padding: 6px 0;
+  text-align: left;
+  border: 0;
+  margin: 0;
+  clear: both;
+}
+.type-027-Categories-Bestsellers .product-layout .product-thumb h4,
+.type-027-Categories-Bestsellers #column-right .product-layout .product-thumb h4 {
+  margin-bottom: 2px;
+}
+.type-027-Categories-Bestsellers .product-list.row,
+.type-027-Categories-Bestsellers .product-thumb h4,
+.type-027-Categories-Bestsellers .products-category.row {
+  margin: 0;
+}
+.type-027-Categories-Bestsellers .product-layout .product-thumb h4 a,
+.type-027-Categories-Bestsellers #column-right .product-layout .product-thumb h4 a {
+  font-size: 12px;
+  display: block;
+}
+.type-027-Categories-Bestsellers .product-thumb h4 a {
+  font-size: 13px;
+  line-height: 18px;
+  text-decoration: none;
+  margin: 0 auto;
+  padding: 0;
+  color: #333;
+}
+.type-027-Categories-Bestsellers .product-thumb h4 a:hover {
+  text-decoration: underline;
+}
+.type-027-Categories-Bestsellers .product-layout .product-thumb .price,
+.type-027-Categories-Bestsellers #column-right .product-layout .product-thumb .price {
+  padding: 0;
+  margin: 0 0 2px;
+  font-size: 12px;
+}
+.type-027-Categories-Bestsellers .product-thumb .price {
+  margin: 10px 0;
+  color: #f15a23;
+  font-size: 13px;
+  font-weight: 700;
+}
+.type-027-Categories-Bestsellers .product-layout .product-thumb .saving,
+.type-027-Categories-Bestsellers #column-right .product-layout .product-thumb .saving {
+  position: relative;
+  line-height: normal;
+  padding: 0 3px;
+  min-width: auto;
+  height: auto;
+  top: 0;
+  left: 0;
+  font-size: 11px;
+  display: inline-block;
+}
+.type-027-Categories-Bestsellers .saving {
+  background: #f15a23;
+  border-radius: 3px;
+  color: #FFF;
+  display: block;
+  font-size: 13px;
+  font-weight: 700;
+  height: 25px;
+  line-height: 25px;
+  position: absolute;
+  right: 12px;
+  text-align: center;
+  top: 12px;
+  min-width: 35px;
+  max-width: 50px;
+  padding: 0 2px;
+}
+.type-027-Categories-Bestsellers .product-layout .product-thumb .rating,
+.type-027-Categories-Bestsellers #column-right .product-layout .product-thumb .rating {
+  padding-bottom: 0;
+}
+.type-027-Categories-Bestsellers .product-thumb .rating span {
+  vertical-align: top;
+}
+.type-027-Categories-Bestsellers .rating .fa-stack {
+  font-size: 6px;
+}
+.type-027-Categories-Bestsellers .fa-stack {
+  position: relative;
+  display: inline-block;
+  width: 2em;
+  height: 2em;
+  line-height: 2em;
+  vertical-align: middle;
+}
+.type-027-Categories-Bestsellers .fa {
+  display: inline-block;
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.type-027-Categories-Bestsellers .rating .fa-star {
+  color: #f6ad26;
+  font-size: 13px;
+}
+.type-027-Categories-Bestsellers .rating .fa-star+.fa-star-o {
+  color: #f6ad26;
+}
+.type-027-Categories-Bestsellers .product-thumb .price-old {
+  color: #999;
+  text-decoration: line-through;
+  font-weight: 400;
+  font-size: 12px;
+}
+.type-027-Categories-Bestsellers .products-category {
+  margin-top: -6px;
+  margin-bottom: 15px !important;
+}

@@ -1,0 +1,47 @@
+.type-019 .product-info .cart #button-cart {
+  padding: 11px 18px;
+  text-transform: uppercase;
+  border-radius: 4px;
+  margin-right: 20px;
+}
+.type-019 .btn-color {
+  background-color: #FF5722 !important;
+  color: #fff;
+  border: 1px solid #ddd;
+  margin-left: 20px;
+}
+.type-019 .qty .control-label {
+  margin-right: 10px;
+  margin-bottom: 0;
+  float: left;
+  padding: 12px 0;
+  display: inline-block;
+}
+.type-019 .qty a.mines {
+  background-position: -22px;
+}
+.type-019 .qty button {
+  margin: 9px 0;
+  border-radius: 4px;
+  float: left;
+  width: 20px;
+  border: 1px solid #ccc;
+  outline: 0;
+}
+.type-019 .qty #input-quantity {
+  float: left;
+  font-size: 15px;
+  width: 44px;
+  padding-left: 2px;
+  padding-right: 2px;
+  margin: 0 5px;
+  height: 40px;
+  text-align: center;
+}
+.type-019 .wishlist {
+  font-size: 11px;
+  display: inline-block;
+  padding-top: 3px;
+  border: none;
+  background: 0 0;
+}

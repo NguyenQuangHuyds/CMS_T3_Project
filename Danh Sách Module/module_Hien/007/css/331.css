@@ -1,0 +1,6 @@
+.type-007 .navbar-default {
+  float: right;
+}
+.type-007 .dropdown-hover:hover .dropdown-menu {
+  display: block;
+}

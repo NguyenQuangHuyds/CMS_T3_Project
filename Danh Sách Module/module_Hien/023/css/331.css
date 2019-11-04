@@ -1,0 +1,20 @@
+.type-023 .nav-tabs>li.active>a,
+.type-023 .nav-tabs>li.active>a:focus,
+.type-023 .nav-tabs>li.active>a:hover {
+  border-width: 1px;
+  font-weight: 700;
+}
+.type-023 .nav-tabs>li.active>a,
+.type-023 .nav-tabs>li.active>a:focus,
+.type-023 .nav-tabs>li.active>a:hover {
+  color: #555;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-bottom-color: transparent;
+  cursor: default;
+}
+.type-023 .btn-primary {
+  color: #fff;
+  background-color: #f15a23;
+  border-color: #2e6da4;
+}

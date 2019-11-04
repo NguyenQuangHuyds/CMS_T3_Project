@@ -1,0 +1,44 @@
+.type-015-contact h3 span {
+  border-bottom: 2px solid #f15a23;
+  display: inline-block;
+  padding-right: 5px;
+  padding-bottom: 3px;
+  margin-bottom: -1px;
+}
+.type-015-contact h3 {
+  font-size: 20px;
+  margin: 0 0 20px;
+  line-height: normal;
+  border-bottom: 1px solid #e5e5e5;
+  color: #000;
+}
+.type-015-contact .buttons {
+  border-top: 1px solid #EEE;
+  overflow: auto;
+  padding: 15px 6px 0;
+  margin-bottom: 20px;
+}
+.type-015-contact .btn-primary {
+  background-color: #f15a23;
+  color: #fff;
+}
+.type-015-contact .btn {
+  padding: 6.2px 12px;
+  border: 0;
+  border-radius: 3px;
+  box-shadow: none;
+  transition: all .3s ease-in-out;
+}
+.type-015-contact div.required .control-label:before {
+  content: '* ';
+  color: red;
+  font-weight: 700;
+}
+.type-015-contact .btn:hover {
+  background: #444;
+  color: #fff;
+}
+.type-015-contact .form-horizontal .form-group {
+  margin-right: 0px;
+  margin-left: -15px;
+}
