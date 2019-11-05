@@ -37,37 +37,37 @@
       </column>
       <div id="carousel0" class="owl-carousel nxt">
         <div class="item text-center">
-          <img src="http://demo.harnishdesign.net/opencart/bigshop/v1/image/cache/catalog/demo/manufacturer/nfl-130x100.png" alt="NFL" class="img-responsive" />
+          <img src="images/cache/catalog/demo/manufacturer/nfl-130x100.png" alt="NFL" class="img-responsive" />
         </div>
         <div class="item text-center">
-          <img src="http://demo.harnishdesign.net/opencart/bigshop/v1/image/cache/catalog/demo/manufacturer/redbull-130x100.png" alt="RedBull" class="img-responsive" />
+          <img src="images/cache/catalog/demo/manufacturer/redbull-130x100.png" alt="RedBull" class="img-responsive" />
         </div>
         <div class="item text-center">
-          <img src="http://demo.harnishdesign.net/opencart/bigshop/v1/image/cache/catalog/demo/manufacturer/sony-130x100.png" alt="Sony" class="img-responsive" />
+          <img src="images/cache/catalog/demo/manufacturer/sony-130x100.png" alt="Sony" class="img-responsive" />
         </div>
         <div class="item text-center">
-          <img src="http://demo.harnishdesign.net/opencart/bigshop/v1/image/cache/catalog/demo/manufacturer/cocacola-130x100.png" alt="Coca Cola" class="img-responsive" />
+          <img src="images/cache/catalog/demo/manufacturer/cocacola-130x100.png" alt="Coca Cola" class="img-responsive" />
         </div>
         <div class="item text-center">
-          <img src="http://demo.harnishdesign.net/opencart/bigshop/v1/image/cache/catalog/demo/manufacturer/burgerking-130x100.png" alt="Burger King" class="img-responsive" />
+          <img src="images/cache/catalog/demo/manufacturer/burgerking-130x100.png" alt="Burger King" class="img-responsive" />
         </div>
         <div class="item text-center">
-          <img src="http://demo.harnishdesign.net/opencart/bigshop/v1/image/cache/catalog/demo/manufacturer/canon-130x100.png" alt="Canon" class="img-responsive" />
+          <img src="images/cache/catalog/demo/manufacturer/canon-130x100.png" alt="Canon" class="img-responsive" />
         </div>
         <div class="item text-center">
-          <img src="http://demo.harnishdesign.net/opencart/bigshop/v1/image/cache/catalog/demo/manufacturer/harley-130x100.png" alt="Harley Davidson" class="img-responsive" />
+          <img src="images/cache/catalog/demo/manufacturer/harley-130x100.png" alt="Harley Davidson" class="img-responsive" />
         </div>
         <div class="item text-center">
-          <img src="http://demo.harnishdesign.net/opencart/bigshop/v1/image/cache/catalog/demo/manufacturer/dell-130x100.png" alt="Dell" class="img-responsive" />
+          <img src="images/cache/catalog/demo/manufacturer/dell-130x100.png" alt="Dell" class="img-responsive" />
         </div>
         <div class="item text-center">
-          <img src="http://demo.harnishdesign.net/opencart/bigshop/v1/image/cache/catalog/demo/manufacturer/disney-130x100.png" alt="Disney" class="img-responsive" />
+          <img src="images/cache/catalog/demo/manufacturer/disney-130x100.png" alt="Disney" class="img-responsive" />
         </div>
         <div class="item text-center">
-          <img src="http://demo.harnishdesign.net/opencart/bigshop/v1/image/cache/catalog/demo/manufacturer/starbucks-130x100.png" alt="Starbucks" class="img-responsive" />
+          <img src="images/cache/catalog/demo/manufacturer/starbucks-130x100.png" alt="Starbucks" class="img-responsive" />
         </div>
         <div class="item text-center">
-          <img src="http://demo.harnishdesign.net/opencart/bigshop/v1/image/cache/catalog/demo/manufacturer/nintendo-130x100.png" alt="Nintendo" class="img-responsive" />
+          <img src="images/cache/catalog/demo/manufacturer/nintendo-130x100.png" alt="Nintendo" class="img-responsive" />
         </div>
       </div>
       <script type="text/javascript"><!--
