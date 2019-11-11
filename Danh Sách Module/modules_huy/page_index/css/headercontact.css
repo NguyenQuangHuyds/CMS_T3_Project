@@ -1,0 +1,185 @@
+.type-014-contact .navbar {
+    min-height: 0px;
+}
+
+.type-014-contact ul {
+    list-style: none;
+    padding: 0;
+}
+
+.type-014-contact .navbar-inverse .navbar-nav>.active>a {
+    background: #f15a23;
+    font-size: 14px;
+    border-right: 1px solid #555;
+    line-height: 40px;
+    text-decoration: none;
+    padding: 0 10px;
+    z-index: 1009;
+    -moz-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+
+.type-014-contact .navbar-inverse .navbar-nav>li>a {
+    color: #fff;
+    font-size: 14px;
+    border-right: 1px solid #555;
+    line-height: 40px;
+    text-decoration: none;
+    padding: 0 10px;
+    z-index: 1009;
+    -moz-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+
+.type-014-contact .navbar-inverse .navbar-nav>li>a:hover {
+    background: #f15a23;
+    border-radius: 3px 3px 0 0;
+    transition: all .3s ease-in-out;
+}
+
+.type-014-contact .navbar-inverse .navbar-nav>li:hover .dropdown-menu {
+    display: block;
+}
+
+.type-014-contact .navbar-nav>li>.many-ul {
+    width: 604px;
+    margin-left: -119.988px;
+}
+
+.type-014-contact .navbar-nav>li>.many-ul>div>ul>li {
+    border-bottom: 1px solid whitesmoke;
+    padding: 1px 4px;
+}
+
+.type-014-contact .navbar-nav>li>.many-ul>div>ul>li>a {
+    text-decoration: none;
+    color: #000;
+}
+
+.type-014-contact .navbar-nav>li>.many-ul>div>ul>li>a:hover {
+    color: #f15a23;
+}
+
+.type-331 #header .links_contact>ul>li .fa-envelope,
+.type-331 #header .links_contact>ul>li .fa-phone {
+    font-size: 120%;
+    margin-right: 3px;
+}
+
+.type-331 .ull {
+    display: flex;
+    float: right;
+}
+
+.type-331 .btnfocus {
+    background: none;
+    border: none;
+    outline: none;
+    float: right;
+}
+
+.type-331 ul {
+    list-style: none;
+    padding: 0;
+}
+
+.type-331 .dropdown-focus {
+    display: none;
+    position: absolute;
+    padding: 0;
+    right: 0px;
+}
+
+.type-331 .btnfocus:focus .dropdown-focus {
+    display: block;
+    float: right;
+}
+
+.type-331 ul>li>i,
+.type-331 ul>li>a>i {
+    font-size: 16px;
+    margin-right: 5px;
+}
+
+.type-331 ul>li,
+.type-331 ul>li>a {
+    padding-left: 12px;
+    color: #666 !important;
+}
+
+.type-331 .btnfocus .cart {
+    font-size: 20px;
+    padding-right: 10px;
+    color: #f15a23;
+}
+
+.type-008 .navbar-default {
+    float: right;
+}
+
+.type-008 .dropdown-hover:hover .dropdown-menu {
+    display: block;
+}
+
+.type-008 .navbar {
+    background: none;
+    border: none;
+    z-index: 9999;
+}
+
+.type-008 .navbar-default .navbar-brand {
+    font-size: 12px;
+    color: #000;
+}
+
+.type-008 .navbar-default .navbar-nav>li>a {
+    color: #000;
+}
+
+.type-008 .navbar-nav>li>.dropdown-menu {
+    border-radius: 5px;
+}
+
+.type-008 .dropdown-menu>li>a {
+    font-size: 12px;
+}
+
+.type-008 .customblock {
+    padding: 7px;
+}
+
+.type-008 .nav {
+    font-size: 13px;
+}
+
+.type-search .input-search {
+    position: relative;
+}
+
+.type-search .search {
+    background: #FFF;
+    padding: 0 36px 0 10px;
+    height: 36px;
+    font-size: 13px;
+    color: #333;
+    outline: 0;
+    display: block;
+    border-radius: 4px;
+}
+
+.type-search .button-search {
+    width: 36px;
+    height: 36px;
+    font-size: 14px;
+    z-index: 2;
+    position: absolute;
+    right: 0;
+    cursor: pointer;
+    float: right;
+    background: 0 0;
+    border: none;
+    color: #bbb;
+    padding: 0;
+    border-radius: 0 4px 4px 0;
+    top: 0;
+}
